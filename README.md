@@ -1,4 +1,4 @@
-#Features - 
+<h1>Features - <h1>
 <ul>
   <li>!ban</li>
   <li>!kick</li>
